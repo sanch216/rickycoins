@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500860872594",
+    "project_id": "rickyshit",
+    "storage_bucket": "rickyshit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500860872594:android:df88f6a1dcbcb8364c834b",
+        "android_client_info": {
+          "package_name": "com.example.rickyshit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk6s49dsjqguiY0PuWOPdhOG6l-AsU2EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
